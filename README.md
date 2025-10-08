@@ -36,9 +36,9 @@ Memory Detector (Root)
 
 Momo (Root, ROM)
 
-Native Detector
+Native Detector (Root, ROM, Anomalias)
 
-Native Test (Root, ROM, Anomalias)
+Native Test 
 
 Ruru (Root, XPosed)
 
