@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=BRISADO&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Trabalhando na Standoff League Champions <br/> Eu sou analista de dispositivos Android</p> <br/> Mais de 100 telagens, 20 Detecções no total</p>
+<p>Trabalhando na Major League Standoff <br/> Eu sou analista de dispositivos Android</p> <br/> Mais de 100 telagens, 20 Detecções no total</p>
 
 
 
