@@ -45,3 +45,10 @@ Ruru (Root, XPosed)
 Securify (Root)
 
 TB Checker (Root, XPosed, Play Integrity, SafetyNet)
+
+### Script de minha autoria, para analisar BugReport do celular
+
+
+<img width="1600" height="580" alt="image" src="https://github.com/user-attachments/assets/344fcd79-bb69-4fa9-a482-f65eea75160c" />
+
+
